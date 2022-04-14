@@ -7,7 +7,7 @@ To get started with the project we first need to create 11 metamask accounts i.e
 
 
 ## Deployment
-Prerequisites:
+Pre-requisites:
 
 First we install node.js and vs code for the Deployment. 
 
